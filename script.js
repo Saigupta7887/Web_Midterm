@@ -21,8 +21,7 @@ fetch('https://upadhayay.github.io/db.json')
     const secoTitleDiv = document.getElementById('four-title');
     secoTitleDiv.innerText = paperTitles[4];
 
-    const seTitleDiv = document.getElementById('six-title');
-    seTitleDiv.innerText = paperTitles[3];
+    
 
 
     const titleList = document.getElementById('paper-titles');
